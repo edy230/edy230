@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @edy230
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Pen testing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
